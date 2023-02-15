@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T03:03:43.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="81jEEN1biaYs723f9gKx" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T03:25:12.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Btt6BAyO7G1uo4z8c-cX" version="20.8.20" type="github">
   <diagram name="第 1 页" id="xmbw7qQmN4ud8pM5Gb9d">
     <mxGraphModel dx="989" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zITz0jIqfDhIaU5DNYhB-4" value="在自动化流水线执行快照播放GM指令" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zITz0jIqfDhIaU5DNYhB-4" value="在自动化流水线执行快照播放指令" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="90" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zITz0jIqfDhIaU5DNYhB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zITz0jIqfDhIaU5DNYhB-5" target="zITz0jIqfDhIaU5DNYhB-6" edge="1">
